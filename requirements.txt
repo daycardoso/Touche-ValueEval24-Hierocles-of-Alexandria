@@ -6,10 +6,10 @@ numpy==1.26.4
 pandas==2.2.2
 s3transfer==0.10.1
 safetensors==0.4.2
-scikit-learn==1.4.2
+scikit-learn==1.5.0
 scipy==1.13.0
 sentence-transformers==3.0.0
 sentencepiece==0.2.0
-tqdm==4.66.2
-transformers==4.40.2
+tqdm==4.66.3
+transformers==5.10.1
 
